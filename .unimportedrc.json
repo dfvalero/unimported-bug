@@ -1,0 +1,3 @@
+{
+    "ignoreUnresolved": ["packages/selenium/atoms.js"]
+}

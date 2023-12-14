@@ -1,0 +1,14 @@
+{
+  "name": "unimported-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dfvalero/unimported-bug.git",
+  "author": "David Fernandez <david.fernandez@team.bumble.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint:project": "unimported"
+  },
+  "devDependencies": {
+    "unimported": "^1.31.1"
+  }
+}
